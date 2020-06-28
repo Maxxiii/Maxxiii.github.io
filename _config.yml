@@ -11,6 +11,7 @@ description: Developer's blog
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/30539708
 
+theme: jekyll-theme-midnight
 #
 # Flags below are optional
 #
